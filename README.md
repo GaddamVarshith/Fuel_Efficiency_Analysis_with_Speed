@@ -1,6 +1,6 @@
 # Fuel Efficiency Analysis with Speed
 
-[![Fuel Efficiency](https://img.shields.io/badge/Fuel%20Efficiency-Analysis%20Project-brightgreen)](https://github.com/username/Fuel_Efficiency_Analysis_with_Speed)
+[![Fuel Efficiency](https://img.shields.io/badge/Fuel%20Efficiency-Analysis%20Project-brightgreen)](https://github.com/GaddamVarshith/Fuel_Efficiency_Analysis_with_Speed.git)
 
 This Python project investigates the relationship between vehicle speed and fuel efficiency. By analyzing a dataset of speed and fuel efficiency measurements, we aim to understand how fuel consumption varies with changes in speed. The project includes polynomial regression analysis, correlation mapping, and hierarchical clustering visualization to provide comprehensive insights into the dataset.
 
@@ -16,7 +16,7 @@ The dataset used in this analysis contains measurements of vehicle speed (in mph
 
 ## Installation
 
-1. Clone this repository to your local machine using `git clone https://github.com/username/Fuel_Efficiency_Analysis_with_Speed.git`
+1. Clone this repository to your local machine using `git clone https://github.com/GaddamVarshith/Fuel_Efficiency_Analysis_with_Speed.git`
 2. Install the required Python packages using `pip install -r requirements.txt`
 numpy==1.21.2
 pandas==1.3.3
