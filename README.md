@@ -18,6 +18,13 @@ The dataset used in this analysis contains measurements of vehicle speed (in mph
 
 1. Clone this repository to your local machine using `git clone https://github.com/username/Fuel_Efficiency_Analysis_with_Speed.git`
 2. Install the required Python packages using `pip install -r requirements.txt`
+numpy==1.21.2
+pandas==1.3.3
+matplotlib==3.4.3
+seaborn==0.11.2
+scikit-learn==0.24.2
+scipy==1.7.1
+
 
 ## Usage
 
