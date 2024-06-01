@@ -3,6 +3,9 @@
 [![Fuel Efficiency](https://img.shields.io/badge/Fuel%20Efficiency-Analysis%20Project-brightgreen)](https://github.com/GaddamVarshith/Fuel_Efficiency_Analysis_with_Speed.git)
 
 This Python project investigates the relationship between vehicle speed and fuel efficiency. By analyzing a dataset of speed and fuel efficiency measurements, we aim to understand how fuel consumption varies with changes in speed. The project includes polynomial regression analysis, correlation mapping, and hierarchical clustering visualization to provide comprehensive insights into the dataset.
+Certainly! In dataSet
+mph: Miles Per Hour
+mpg: Miles Per Gallon
 
 ## Features
 
