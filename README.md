@@ -11,7 +11,7 @@ mpg: Miles Per Gallon
 
 - **Polynomial Regression**: Modeling the relationship between speed and fuel efficiency using polynomial regression analysis.
 - **Correlation Mapping**: Visualizing the correlations between different variables in the dataset with a heatmap.
-- **Hierarchical Clustering**: Exploring the hierarchical relationships among data points using a dendrogram.
+- **Hierarchical Clustering**: Exploring the hierarchical relationships among data points using a dendrogram
 
 ## Dataset
 
