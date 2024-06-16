@@ -34,7 +34,7 @@ scipy==1.7.1
 1. Run the Jupyter notebook `Fuel_Efficiency_Analysis.ipynb` to explore the analysis and visualizations.
 2. Experiment with different polynomial degrees for regression analysis and observe the changes in fit.
 3. Explore the correlations between variables using the correlation heatmap.
-4. Analyze the hierarchical clustering of data points with the dendrogram visualization.
+4. Analyze the hierarchical clustering of data points with the dendrogram visualization
 
 ## License
 
